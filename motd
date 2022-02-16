@@ -1,0 +1,13 @@
+Welcome To TERMUX
+
+WhatsApp 1 : https://wa.me/919633189774/
+Instagram  : https://www.instagram.com/cyber._god/
+GitHub     : https://github.com/IND_GANG/
+
+Working with packages
+
+ * Install package : ==> pkg install <package>
+                     ==> apt install <package>
+                     ==> apt-get install <package>
+ * Remove package  : ==> pkg remove <package>
+
