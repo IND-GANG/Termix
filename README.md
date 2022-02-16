@@ -73,5 +73,6 @@ $ ls
 $ bash remove-login.sh
 ```
 
-### Copyright Owner's IMAGE, <img src="https://avatars3.githubusercontent.com/u/67367001?s=460&u=a3584dda8e1795eb39f9670ca8197c120d2cc497&v=4">
+### Copyright Owner's IMAGE,
+<img src="https://avatars3.githubusercontent.com/u/67367001?s=460&u=a3584dda8e1795eb39f9670ca8197c120d2cc497&v=4">
 
