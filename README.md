@@ -20,13 +20,13 @@ Hope you guys like this Project,then dont forget to give it a like.
 <img align="right" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/Developerkavi.gif"/>
 </div>
 
-- 👨🏽‍💻 HELLO I’m [Cyber God](https://instagram.com/cyber._god/ )
+- 👨🏽‍💻 HELLO I’m [Ad1xmohd](https://instagram.com/ad1xmohd/ )
 - 📫 How to reach me [Whatsapp](https://wa.me/919633189774/) 
 - 💫 **I am not a expert hacker or developer.. 🌆**
 </p>
 <p align="center">
-	<a href="https://wa.me/919633189774"><img title="WhatsApp" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20wa.jpg" width=118px "whatsapp"></a>
-	<a href="https://www.instagram.com/cyber._god/"><img title="INSTAGRAM" src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi%20insta.jpg"width=118px></a>
+	<a href="https://wa.me/919633189774"><img title="WhatsApp" src="https://i.pinimg.com/564x/18/46/74/1846740d0dfe3c5e4bc227bbb36d009d.jpg" width=118px "whatsapp"></a>
+	<a href="https://www.instagram.com/ad1xmohd/"><img title="INSTAGRAM" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"width=118px></a>
 	<a href="https://t.me/CybEr_g0d"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 	<a href="https://www.facebook.com/adil.pachambala"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
